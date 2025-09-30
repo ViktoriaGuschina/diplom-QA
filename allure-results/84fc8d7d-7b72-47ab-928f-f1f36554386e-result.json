@@ -1,0 +1,130 @@
+{
+    "name": "transitionFromNewsToQuotesTest",
+    "start": 1759254560579,
+    "stop": 1759254571228,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Авторизация с валидными данными",
+            "start": 1759254560680,
+            "stop": 1759254560681,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "переход в цитаты",
+            "start": 1759254565956,
+            "stop": 1759254565956,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Наличие тайтла Quotes",
+            "start": 1759254568352,
+            "stop": 1759254568352,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Выход из аккаунта",
+            "start": 1759254568470,
+            "stop": 1759254568470,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+        {
+            "source": "1af3a940-7a05-4882-ab98-eb578f61b5c8-attachment.png",
+            "name": "transition From News To Quotes Test",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "84fc8d7d-7b72-47ab-928f-f1f36554386e",
+    "historyId": "d6b01a73d31bd5616ac7c0bda9fea866",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest.NewsTest.transitionFromNewsToQuotesTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest.NewsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "transitionFromNewsToQuotesTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest.NewsTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(76)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "Переход из News из Our Mission"
+        },
+        {
+            "name": "epic",
+            "value": "Тесты навигации новостей"
+        }
+    ]
+}

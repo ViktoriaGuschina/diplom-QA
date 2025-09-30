@@ -77,15 +77,16 @@
             style="@style/materialButtonTheme"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            app:iconGravity="end"
             android:background="@android:color/transparent"
             android:checkable="true"
             android:minWidth="48dp"
             android:minHeight="48dp"
             app:icon="@drawable/expand_less_24"
+            app:iconGravity="end"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0"
             tools:ignore="DuplicateIncludedIds" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 

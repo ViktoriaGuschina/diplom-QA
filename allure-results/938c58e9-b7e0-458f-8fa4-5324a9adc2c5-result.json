@@ -1,0 +1,162 @@
+{
+    "name": "shouldBeDisplayOurMissionTest",
+    "start": 1759254679926,
+    "stop": 1759254692791,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Авторизация с валидными данными",
+            "start": 1759254680046,
+            "stop": 1759254680046,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "переход в цитаты",
+            "start": 1759254686865,
+            "stop": 1759254686865,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Свернуть/развернуть цитату",
+            "start": 1759254689222,
+            "stop": 1759254689222,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Отображение дополнительной цитаты",
+            "start": 1759254689563,
+            "stop": 1759254689563,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Свернуть/развернуть цитату",
+            "start": 1759254689568,
+            "stop": 1759254689568,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Выход из аккаунта",
+            "start": 1759254690024,
+            "stop": 1759254690024,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+        {
+            "source": "9b197709-c1d3-45a5-9338-9cdeee077539-attachment.png",
+            "name": "should Be Display Our Mission Test",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "938c58e9-b7e0-458f-8fa4-5324a9adc2c5",
+    "historyId": "72b2cf9b4e400420e76e180c3b201783",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest.OurMissionTest.shouldBeDisplayOurMissionTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest.OurMissionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldBeDisplayOurMissionTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest.OurMissionTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(76)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "Свернуть/развернуть цитату"
+        },
+        {
+            "name": "epic",
+            "value": "Тесты раздела цитат"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "name": "sortNewsByPressingButtonTest",
+    "start": 1759254571234,
+    "stop": 1759254586020,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Авторизация с валидными данными",
+            "start": 1759254571346,
+            "stop": 1759254571346,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "переход в новости через меню",
+            "start": 1759254578126,
+            "stop": 1759254578126,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "сортировка в новостях",
+            "start": 1759254580161,
+            "stop": 1759254580161,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Выход из аккаунта",
+            "start": 1759254583318,
+            "stop": 1759254583318,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+        {
+            "source": "97c7c866-c5d1-4a8e-969f-91f566fb71b1-attachment.png",
+            "name": "sort News By Pressing Button Test",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "e7920daf-779f-49c3-a527-fd8646553136",
+    "historyId": "e7061398eb0a90b8239e257a349d0e20",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest.NewsTest.sortNewsByPressingButtonTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest.NewsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "sortNewsByPressingButtonTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest.NewsTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(76)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "Сортировка новостей"
+        },
+        {
+            "name": "epic",
+            "value": "Тесты навигации новостей"
+        }
+    ]
+}

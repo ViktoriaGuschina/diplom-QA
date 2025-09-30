@@ -1,0 +1,82 @@
+{
+    "name": "shouldBeFullContentInAboutBlock",
+    "start": 1759254015588,
+    "stop": 1759254021027,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Полное присутствие всех компонентов формы авторизации",
+            "start": 1759254015686,
+            "stop": 1759254015686,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+        {
+            "source": "b7051e79-3d58-4f48-9916-4dde767f52ec-attachment.png",
+            "name": "should Be Full Content In About Block",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "89b1c8f9-9852-4ebf-999d-c6a830bb4987",
+    "historyId": "8cfe20c8075826457595ba7bcb19b30b",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.SuccessfullLogin.shouldBeFullContentInAboutBlock",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.SuccessfullLogin"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldBeFullContentInAboutBlock"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.SuccessfullLogin"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(76)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "Отображение всех элементов авторизации"
+        },
+        {
+            "name": "epic",
+            "value": "Авторизация"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "name": "fillInPasswordFieldWithSpacesTest",
+    "start": 1759253964475,
+    "stop": 1759253971295,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "411b6c21-af2b-4baf-9c96-dfc5cccadc78-attachment.png",
+            "name": "fill In Password Field With Spaces Test",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "ccdb0421-867c-42ab-8620-b3b6ef63d93b",
+    "historyId": "aca363f215569aa4eb1ef8c6658d60f",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.InvalidPasswordInAuthorizationPageTest.fillInPasswordFieldWithSpacesTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.InvalidPasswordInAuthorizationPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "fillInPasswordFieldWithSpacesTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.InvalidPasswordInAuthorizationPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(76)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "Заполнение поля пароль не валидными данными - пробелами"
+        },
+        {
+            "name": "epic",
+            "value": "Невалидные тесты пароля"
+        }
+    ]
+}

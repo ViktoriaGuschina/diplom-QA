@@ -1,0 +1,146 @@
+{
+    "name": "transitionToControlPanelTest",
+    "start": 1759254624231,
+    "stop": 1759254639345,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Авторизация с валидными данными",
+            "start": 1759254624332,
+            "stop": 1759254624332,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "переход в новости через меню",
+            "start": 1759254631143,
+            "stop": 1759254631143,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Переход в панель управления со страницы Новостей",
+            "start": 1759254633161,
+            "stop": 1759254633161,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Наличие тайтла контрол панель",
+            "start": 1759254636474,
+            "stop": 1759254636474,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Выход из аккаунта",
+            "start": 1759254636582,
+            "stop": 1759254636582,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+        {
+            "source": "8931c349-c14e-490b-96c4-cfc8e6627e1e-attachment.png",
+            "name": "transition To Control Panel Test",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "e53ad951-d2aa-4d39-9de3-2cab78a67627",
+    "historyId": "4b9c64431195286efb1b3da6029b95ab",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest.NewsTest.transitionToControlPanelTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest.NewsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "transitionToControlPanelTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest.NewsTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(76)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "Переход в редактирование новосте"
+        },
+        {
+            "name": "epic",
+            "value": "Тесты навигации новостей"
+        }
+    ]
+}

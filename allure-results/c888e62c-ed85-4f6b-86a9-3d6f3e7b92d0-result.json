@@ -1,0 +1,146 @@
+{
+    "name": "transitionFromMainToAboutTest",
+    "start": 1759254518069,
+    "stop": 1759254530224,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Авторизация с валидными данными",
+            "start": 1759254518163,
+            "stop": 1759254518163,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Переход в о приложении через меню",
+            "start": 1759254524960,
+            "stop": 1759254524960,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "кнопка назад из about",
+            "start": 1759254527013,
+            "stop": 1759254527013,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Наличие ALL NEWS",
+            "start": 1759254527311,
+            "stop": 1759254527311,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Выход из аккаунта",
+            "start": 1759254527539,
+            "stop": 1759254527539,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+        {
+            "source": "1d442432-fb72-45c8-8657-77c948c93835-attachment.png",
+            "name": "transition From Main To About Test",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "c888e62c-ed85-4f6b-86a9-3d6f3e7b92d0",
+    "historyId": "a1fd2af57ba46640ca3c91bae1938510",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest.MainTest.transitionFromMainToAboutTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest.MainTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "transitionFromMainToAboutTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest.MainTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(76)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "Переход в About из Main"
+        },
+        {
+            "name": "epic",
+            "value": "Тесты главного раздела"
+        }
+    ]
+}

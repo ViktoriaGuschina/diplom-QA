@@ -1,0 +1,146 @@
+{
+    "name": "presenceOfContentAndScrollQuotesTest",
+    "start": 1759254653658,
+    "stop": 1759254665793,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Авторизация с валидными данными",
+            "start": 1759254653762,
+            "stop": 1759254653762,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "переход в цитаты",
+            "start": 1759254660561,
+            "stop": 1759254660561,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверка блока с цитатами на полный контент",
+            "start": 1759254662904,
+            "stop": 1759254662904,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Пролистывание ленты до низа",
+            "start": 1759254662908,
+            "stop": 1759254662908,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Выход из аккаунта",
+            "start": 1759254663045,
+            "stop": 1759254663045,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+        {
+            "source": "6ee2f5e1-6050-4e97-a1c1-8dd0133ff033-attachment.png",
+            "name": "presence Of Content And Scroll Our Mission Test",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "c8e0e96c-8d1f-459b-b364-7bfdd58b3e75",
+    "historyId": "53e350380e22c90b23f36aa9c8572ca1",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest.OurMissionTest.presenceOfContentAndScrollQuotesTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest.OurMissionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "presenceOfContentAndScrollQuotesTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest.OurMissionTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(76)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "Наличие контента и скрол вниз"
+        },
+        {
+            "name": "epic",
+            "value": "Тесты раздела цитат"
+        }
+    ]
+}

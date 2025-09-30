@@ -1,0 +1,114 @@
+{
+    "name": "transitionFromMainToQuotesTest",
+    "start": 1759254505905,
+    "stop": 1759254518059,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Авторизация с валидными данными",
+            "start": 1759254506013,
+            "stop": 1759254506013,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "переход в цитаты",
+            "start": 1759254512793,
+            "stop": 1759254512793,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Выход из аккаунта",
+            "start": 1759254515263,
+            "stop": 1759254515263,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+        {
+            "source": "58db0b7b-a67a-44d3-9683-4b0896c647be-attachment.png",
+            "name": "transition From Main To Our Mission Test",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "f5cea339-c331-4eb3-81cc-7bc7429db856",
+    "historyId": "957c3c43811b91a2d174ba3592a29695",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest.MainTest.transitionFromMainToQuotesTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest.MainTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "transitionFromMainToQuotesTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest.MainTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(76)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "Переход в Our Mission из Main"
+        },
+        {
+            "name": "epic",
+            "value": "Тесты главного раздела"
+        }
+    ]
+}

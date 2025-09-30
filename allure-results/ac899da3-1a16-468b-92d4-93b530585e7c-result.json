@@ -1,0 +1,66 @@
+{
+    "name": "fillInPasswordFieldWithSpecialCharactersTest",
+    "start": 1759253984787,
+    "stop": 1759253992081,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "cb1dea14-74c7-44d6-b20f-09e501a7a8ec-attachment.png",
+            "name": "fill In Password Field With Special Character Test",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "ac899da3-1a16-468b-92d4-93b530585e7c",
+    "historyId": "48232ba42184f7d4afa66753c9b5fb16",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.InvalidPasswordInAuthorizationPageTest.fillInPasswordFieldWithSpecialCharactersTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.InvalidPasswordInAuthorizationPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "fillInPasswordFieldWithSpecialCharactersTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.InvalidPasswordInAuthorizationPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(76)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "Заполнение поля пароль не валидными данными - заглавными буквами"
+        },
+        {
+            "name": "epic",
+            "value": "Невалидные тесты пароля"
+        }
+    ]
+}

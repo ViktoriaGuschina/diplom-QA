@@ -1,0 +1,130 @@
+{
+    "name": "goToNewsViaButtonALLNEWSTest",
+    "start": 1759254495955,
+    "stop": 1759254505899,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Авторизация с валидными данными",
+            "start": 1759254496063,
+            "stop": 1759254496063,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик на кнопку все новости",
+            "start": 1759254502862,
+            "stop": 1759254502862,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Наличие тайтла News",
+            "start": 1759254503161,
+            "stop": 1759254503161,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Выход из аккаунта",
+            "start": 1759254503260,
+            "stop": 1759254503260,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+        {
+            "source": "5a7c09d4-5128-418d-b921-b0199cfe574a-attachment.png",
+            "name": "go To News Via Button ALL NEWS Test",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "246b3b1f-77f0-4723-a1c1-df418e544ffe",
+    "historyId": "21d3998e1875b7bbda4b1fb7d3c2330f",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest.MainTest.goToNewsViaButtonALLNEWSTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest.MainTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "goToNewsViaButtonALLNEWSTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.NavigationAPPTest.MainTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(76)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "Нажать на кнопку ALL NEWS в Main"
+        },
+        {
+            "name": "epic",
+            "value": "Тесты главного раздела"
+        }
+    ]
+}

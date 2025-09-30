@@ -1,0 +1,66 @@
+{
+    "name": "enteringCapitalLettersENInLoginFieldTest",
+    "start": 1759253950078,
+    "stop": 1759253957180,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "5a3a93f0-f7a2-4d8c-bbad-a9466d047e0d-attachment.png",
+            "name": "entering capital letters EN in login field test",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "e6777f89-2877-470c-bb47-eb5b5c333fa7",
+    "historyId": "9afb92fb3b3c39ddd432102a2e293c9",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.InvalidLoginInAuthorizationPageTest.enteringCapitalLettersENInLoginFieldTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.InvalidLoginInAuthorizationPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "enteringCapitalLettersENInLoginFieldTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.InvalidLoginInAuthorizationPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(76)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "Заполнение поля логин не валидными данными - заглавными буквами"
+        },
+        {
+            "name": "epic",
+            "value": "Невалидные тесты логина"
+        }
+    ]
+}

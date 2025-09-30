@@ -1,0 +1,66 @@
+{
+    "name": "enteringOneNumberInLoginFieldTest",
+    "start": 1759253915190,
+    "stop": 1759253922246,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "262ad792-c91b-49b9-b3eb-5bdb9246feb1-attachment.png",
+            "name": "entering one number in login field test",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "03d52dff-a5d3-428e-8ac5-e44f4e11b035",
+    "historyId": "15b23979b484b0f3f41d28b7d9fc4f25",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.InvalidLoginInAuthorizationPageTest.enteringOneNumberInLoginFieldTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.InvalidLoginInAuthorizationPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "enteringOneNumberInLoginFieldTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.InvalidLoginInAuthorizationPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(76)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "Заполнение поля логин не валидными данными - одной цифрой"
+        },
+        {
+            "name": "epic",
+            "value": "Невалидные тесты логина"
+        }
+    ]
+}

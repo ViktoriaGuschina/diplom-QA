@@ -1,9 +1,9 @@
 package ru.iteco.fmhandroid.ui.tests.AuthorizationTests;
 
+import static io.qameta.allure.android.AllureScreenshotKt.allureScreenshot;
+
 import androidx.test.espresso.IdlingRegistry;
 import androidx.test.ext.junit.rules.ActivityScenarioRule;
-import androidx.test.ext.junit.runners.AndroidJUnit4;
-import androidx.test.filters.LargeTest;
 
 import org.junit.After;
 import org.junit.Before;
@@ -11,20 +11,20 @@ import org.junit.Rule;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 
+import io.qameta.allure.android.runners.AllureAndroidJUnit4;
+import io.qameta.allure.kotlin.Epic;
+import io.qameta.allure.kotlin.Story;
 import ru.iteco.fmhandroid.R;
 import ru.iteco.fmhandroid.ui.AppActivity;
-import ru.iteco.fmhandroid.ui.helpers.AuthorizationHelper;
-import ru.iteco.fmhandroid.ui.helpers.DataHelper;
 import ru.iteco.fmhandroid.ui.helpers.NavigationHelper;
 import ru.iteco.fmhandroid.ui.helpers.ProgressIndicatorIdlingResource;
-import ru.iteco.fmhandroid.ui.page.AuthorizationPage;
+import ru.iteco.fmhandroid.ui.steps.AuthorizationSteps;
 
-@LargeTest
-@RunWith(AndroidJUnit4.class)
+@Epic("Авторизация")
+@RunWith(AllureAndroidJUnit4.class)
 
 public class SuccessfullLogin {
-    AuthorizationPage authorizationPage = new AuthorizationPage();
-    DataHelper dataHelper = new DataHelper();
+
     @Rule
     public ActivityScenarioRule<AppActivity> mActivityScenarioRule =
             new ActivityScenarioRule<>(AppActivity.class);
@@ -34,25 +34,28 @@ public class SuccessfullLogin {
     public void setup() {
         idlingResource = new ProgressIndicatorIdlingResource(R.id.splash_screen_circular_progress_indicator);
         IdlingRegistry.getInstance().register(idlingResource);
-        try {
-            NavigationHelper.logOutOfYourAccount();
-        } catch (Exception E) {
-        }
     }
 
     @Test
+    @Story("Отображение всех элементов авторизации")
     public void shouldBeFullContentInAboutBlock() {
-        AuthorizationHelper.checkThatAuthorizationBlockContentIsFull();
+        AuthorizationSteps.fullPresenceOfAllComponentsOfAuthorizationForm();
+
+        allureScreenshot("should Be Full Content In About Block", 100, 1.0f);
     }
 
     @Test
-    public void successFullLoginTest(){
+    @Story("Успешный вход в приложение с валидными данными")
+    public void successAuthTest() {
         NavigationHelper.textDisplayTitle(R.id.auth);
-        AuthorizationHelper.auth();
+        AuthorizationSteps.auth();
+        AuthorizationSteps.logOut();
+
+        allureScreenshot("success Auth Test", 100, 1.0f);
     }
+
     @After
     public void close() {
         IdlingRegistry.getInstance().unregister(idlingResource);
     }
-
 }

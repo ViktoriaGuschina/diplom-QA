@@ -1,0 +1,66 @@
+{
+    "name": "enteringOneNumberInPasswordFieldTest",
+    "start": 1759253998692,
+    "stop": 1759254005678,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "e436a7a7-92a0-4630-a0e0-36d0a06604db-attachment.png",
+            "name": "enteringOneNumberInPasswordFieldTest",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "b9107e11-f962-47dd-8b61-846541437f91",
+    "historyId": "5359471ad5c40b3409fd17501e6b6314",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.InvalidPasswordInAuthorizationPageTest.enteringOneNumberInPasswordFieldTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.InvalidPasswordInAuthorizationPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "enteringOneNumberInPasswordFieldTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.InvalidPasswordInAuthorizationPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(76)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "Заполнение поля пароль не валидными данными - одной цифрой"
+        },
+        {
+            "name": "epic",
+            "value": "Невалидные тесты пароля"
+        }
+    ]
+}

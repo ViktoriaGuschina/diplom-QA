@@ -1,0 +1,66 @@
+{
+    "name": "enteringCapitalLettersENInPasswordFieldTest",
+    "start": 1759253957189,
+    "stop": 1759253964464,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+        {
+            "source": "532aa6d2-21e2-48df-8041-2a06807a9f7d-attachment.png",
+            "name": "entering Capital Letters EN In Password Field Test",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "d56e6c71-0c00-4d64-be94-c6bf14d9895c",
+    "historyId": "69da3e81eb86aeb853a499df91befa84",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.InvalidPasswordInAuthorizationPageTest.enteringCapitalLettersENInPasswordFieldTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.InvalidPasswordInAuthorizationPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "enteringCapitalLettersENInPasswordFieldTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AuthorizationTests.InvalidPasswordInAuthorizationPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(76)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "story",
+            "value": "Заполнение поля пароль не валидными данными - заглавными буквами"
+        },
+        {
+            "name": "epic",
+            "value": "Невалидные тесты пароля"
+        }
+    ]
+}
