@@ -57,10 +57,8 @@ public class DeleteNewsTest {
     @Test
     @Story("Создание и удаление новости")
     public void creatingAndDeletingNewsItemTest() {
-
         String category = randomCategory();
         CreatingNewsSteps.fillInNewsCategory(category);
-
         String title = "Новость дня";
         String description = "Описание новости тест";
         creatingNewsPage.categoryField.perform(click());
